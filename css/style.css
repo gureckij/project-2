@@ -16,7 +16,7 @@ html {
 
 .promo {
     height: 800px;
-    background: url(../img/bg/main_bg.jpg) center center/ cover no-repeat #777;
+    background: url(../img/bg/main_bg.jpg) center center/ cover no-repeat #efefef;
     padding: 39px 0 62px 0;
 }
 
@@ -207,7 +207,7 @@ h2.title {
 .finish {
     min-height: 447px;
     padding: 86px 0 79px 0;
-    background: url('../img/bg/second_bg.jpg') center center/cover no-repeat;
+    background: url('../img/bg/second_bg.jpg') center center/cover no-repeat #efefef;
 }
 
 .finish .finish_wrapper {
